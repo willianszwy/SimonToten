@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7b57b352da2e7ddc2533b5fde9a2ce8",
+    "revision": "7c50c33008e0abe8c00d570199b0e7e8",
     "url": "/SimonToten/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SimonToten/static/css/2.9c85cfb9.chunk.css"
   },
   {
-    "revision": "792ae0b24f025d55d7b8",
+    "revision": "29b9aae04f1a0991a555",
     "url": "/SimonToten/static/css/main.5874f1c4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SimonToten/static/js/2.30046c1a.chunk.js"
   },
   {
-    "revision": "792ae0b24f025d55d7b8",
-    "url": "/SimonToten/static/js/main.c913ec35.chunk.js"
+    "revision": "29b9aae04f1a0991a555",
+    "url": "/SimonToten/static/js/main.9fd0e6a4.chunk.js"
   },
   {
     "revision": "8f0c7befec5cfc3af61b",
