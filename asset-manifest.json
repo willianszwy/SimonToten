@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/SimonApp/static/css/main.5874f1c4.chunk.css",
-    "main.js": "/SimonApp/static/js/main.dee1a29f.chunk.js",
-    "main.js.map": "/SimonApp/static/js/main.dee1a29f.chunk.js.map",
-    "runtime~main.js": "/SimonApp/static/js/runtime~main.da8062c4.js",
-    "runtime~main.js.map": "/SimonApp/static/js/runtime~main.da8062c4.js.map",
-    "static/css/2.cf5a222d.chunk.css": "/SimonApp/static/css/2.cf5a222d.chunk.css",
-    "static/js/2.30046c1a.chunk.js": "/SimonApp/static/js/2.30046c1a.chunk.js",
-    "static/js/2.30046c1a.chunk.js.map": "/SimonApp/static/js/2.30046c1a.chunk.js.map",
-    "index.html": "/SimonApp/index.html",
-    "precache-manifest.d278f1007863e5f9a8bc25e563d3b560.js": "/SimonApp/precache-manifest.d278f1007863e5f9a8bc25e563d3b560.js",
-    "service-worker.js": "/SimonApp/service-worker.js",
-    "static/css/2.cf5a222d.chunk.css.map": "/SimonApp/static/css/2.cf5a222d.chunk.css.map",
-    "static/css/main.5874f1c4.chunk.css.map": "/SimonApp/static/css/main.5874f1c4.chunk.css.map",
-    "static/media/semantic.min.css": "/SimonApp/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/SimonToten/static/css/main.5874f1c4.chunk.css",
+    "main.js": "/SimonToten/static/js/main.c913ec35.chunk.js",
+    "main.js.map": "/SimonToten/static/js/main.c913ec35.chunk.js.map",
+    "runtime~main.js": "/SimonToten/static/js/runtime~main.d59d43c7.js",
+    "runtime~main.js.map": "/SimonToten/static/js/runtime~main.d59d43c7.js.map",
+    "static/css/2.9c85cfb9.chunk.css": "/SimonToten/static/css/2.9c85cfb9.chunk.css",
+    "static/js/2.30046c1a.chunk.js": "/SimonToten/static/js/2.30046c1a.chunk.js",
+    "static/js/2.30046c1a.chunk.js.map": "/SimonToten/static/js/2.30046c1a.chunk.js.map",
+    "index.html": "/SimonToten/index.html",
+    "precache-manifest.4cb4c0730f094fd1316bd61f0aef7fec.js": "/SimonToten/precache-manifest.4cb4c0730f094fd1316bd61f0aef7fec.js",
+    "service-worker.js": "/SimonToten/service-worker.js",
+    "static/css/2.9c85cfb9.chunk.css.map": "/SimonToten/static/css/2.9c85cfb9.chunk.css.map",
+    "static/css/main.5874f1c4.chunk.css.map": "/SimonToten/static/css/main.5874f1c4.chunk.css.map",
+    "static/media/semantic.min.css": "/SimonToten/static/media/outline-icons.ef60a4f6.woff"
   }
 }
