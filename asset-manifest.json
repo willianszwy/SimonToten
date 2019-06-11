@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SimonApp/static/css/main.5874f1c4.chunk.css",
-    "main.js": "/SimonApp/static/js/main.a72ac7d4.chunk.js",
-    "main.js.map": "/SimonApp/static/js/main.a72ac7d4.chunk.js.map",
+    "main.js": "/SimonApp/static/js/main.2ef1fb0d.chunk.js",
+    "main.js.map": "/SimonApp/static/js/main.2ef1fb0d.chunk.js.map",
     "runtime~main.js": "/SimonApp/static/js/runtime~main.da8062c4.js",
     "runtime~main.js.map": "/SimonApp/static/js/runtime~main.da8062c4.js.map",
     "static/css/2.cf5a222d.chunk.css": "/SimonApp/static/css/2.cf5a222d.chunk.css",
     "static/js/2.30046c1a.chunk.js": "/SimonApp/static/js/2.30046c1a.chunk.js",
     "static/js/2.30046c1a.chunk.js.map": "/SimonApp/static/js/2.30046c1a.chunk.js.map",
     "index.html": "/SimonApp/index.html",
-    "precache-manifest.8afaee8e5dbb5843bf69a2446638342f.js": "/SimonApp/precache-manifest.8afaee8e5dbb5843bf69a2446638342f.js",
+    "precache-manifest.7762cba7ea7c5279fcb929d523baef01.js": "/SimonApp/precache-manifest.7762cba7ea7c5279fcb929d523baef01.js",
     "service-worker.js": "/SimonApp/service-worker.js",
     "static/css/2.cf5a222d.chunk.css.map": "/SimonApp/static/css/2.cf5a222d.chunk.css.map",
     "static/css/main.5874f1c4.chunk.css.map": "/SimonApp/static/css/main.5874f1c4.chunk.css.map",
