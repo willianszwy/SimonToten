@@ -2,7 +2,7 @@
   "name": "toten",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://willianszwy.github.io/SimonApp",
+  "homepage": "https://willianszwy.github.io/SimonToten",
   "dependencies": {
     "qrcode": "^1.3.3",
     "qrcode.react": "^0.9.3",
