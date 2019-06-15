@@ -11,6 +11,7 @@ class Normal extends React.Component {
         const { totalNormal } = this.props;
 
         return (
+            
             <Grid textAlign='center' style={{ height: '100%' }} verticalAlign='middle'>
                 <Grid.Column>
                     <Segment

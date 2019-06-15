@@ -13,7 +13,7 @@ import Preferencial from './views/preferencial';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Container>
         <Route path="/" exact component={Index} />
         <Route path="/preferencial/" component={Preferencial} />
